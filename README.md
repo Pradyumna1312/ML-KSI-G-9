@@ -4,8 +4,8 @@
 
 # RV College of Engineering	                        	# Knowledge Solutions India 
 
-# Internship Program
-Course: Machine Learning &AI with Python
+<div style = "text-align: right">  Internship Program </div>
+# Course: Machine Learning &AI with Python
 Batch-11
 Group-9
 Topic-1(Admission Prediction)
